@@ -5,7 +5,7 @@ public class Ternary {
 
         int a = 5;
         int b = 5;
-        int c = 6;
+        int c = 7;
         String result;
 
         result = (a == b) ? "a and b are equals" : "a and b are not equals";
