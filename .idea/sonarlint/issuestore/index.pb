@@ -1,8 +1,6 @@
 
 U
 %src/com/company/lesson2/Example1.java,b/e/be9997332f20daccc770b607171d541b1f026457
-U
-%src/com/company/lesson3_1/Months.java,7/e/7e69251a38456781335b9dde30341d7a07a48962
 Z
 *src/com/company/lesson3/InitOperators.java,9/5/9541b3064ef477cd5683115b0e7fd040fcb4c1a3
 Z
@@ -11,8 +9,6 @@ Z
 *src/com/company/lesson3_1/CheckNumber.java,6/2/622de5254b1a4fbc0e3e162e8885474be0effe7a
 a
 1src/com/company/lesson3/ArithmeticsOperators.java,3/7/37908c7d7f56c889541b2b4e1b8b62d1f2207e1c
-U
-%src/com/company/lesson3_1/IfElse.java,1/0/1006ae15ef6f9541416e29001e8d1fdc0dbb1caa
 Q
 !src/com/company/lesson1/Frst.java,f/3/f33a056d79df8a0f5c1b8fc9b27170fcf7f6502f
 _
@@ -25,5 +21,3 @@ S
 ,src/com/company/lesson3_1/MinMaxAverage.java,3/9/3958caf4d53b91e6de9f16923ec0578e9b205c1c
 W
 'src/com/company/lesson3/Calculator.java,4/1/41abd2ecf7af268aaa1f610cf65ff7799806d60b
-Y
-)src/com/company/lesson3_1/SwitchCase.java,6/3/63c19a050e8d8c75f0c80afacbb001f569580a6d

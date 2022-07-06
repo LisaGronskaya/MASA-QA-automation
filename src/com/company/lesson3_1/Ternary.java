@@ -10,6 +10,7 @@ public class Ternary {
 
         result = (a == b) ? "a and b are equals" : "a and b are not equals";
         System.out.println("result = " + result);
+
         result = (a == c) ? "a and c are equals" : "a and c are not equals";
         System.out.println("result = " + result);
 
