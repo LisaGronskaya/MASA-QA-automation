@@ -8,10 +8,10 @@ public class Interval {
         System.out.println("Please, enter number");
         for (int i = 0; i <= 100; i++) {
             int x = sc.nextInt();
-            if (x < 0 || x > 100 ) {
+            if (x < 0 || x > 100) {
                 System.out.println("Error, try again ");
             }
-            if (x == 0 || x <= 14 && x >= 0) {
+            if (x >= 0 && x <= 14) {
                 System.out.println("range 0-14");
                 break;
             }

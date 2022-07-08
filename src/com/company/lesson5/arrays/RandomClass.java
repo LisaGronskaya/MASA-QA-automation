@@ -1,4 +1,4 @@
-package com.company.lesson5;
+package com.company.lesson5.arrays;
 
 import java.util.Random;
 
@@ -11,7 +11,7 @@ public class RandomClass {
         double randomDouble = random.nextDouble();
         System.out.println("randomDouble = " + randomDouble);
 
-        int[] array = new int[100];
+        int[] array = new int[5];
 
         for (int i = 0; i < array.length; i++) {
             array[i] = random.nextInt();
