@@ -1,4 +1,4 @@
-package com.company.lesson8.HW_8;
+package com.company.lesson8.HW_8.students;
 
 public abstract class Person {
 
@@ -46,11 +46,7 @@ public abstract class Person {
     }
 
     public abstract void printInfo();
+//        System.out.println("Student " + toString());
 
-//    public void printInfo() {
-//        this.name = name;
-//        this.email = email;
-//        this.birthYear = getBirthYear();
-//    }
 
 }

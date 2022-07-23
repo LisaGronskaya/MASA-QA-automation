@@ -23,8 +23,6 @@ W
 'src/com/company/lesson3/Calculator.java,4/1/41abd2ecf7af268aaa1f610cf65ff7799806d60b
 \
 ,src/com/company/lesson3_1/CoffeeMachine.java,c/f/cf19cd51eb8d016d487ae373751579180e56dc68
-Y
-)src/com/company/lesson3_1/SwitchCase.java,6/3/63c19a050e8d8c75f0c80afacbb001f569580a6d
 U
 %src/com/company/lesson3_1/Months.java,7/e/7e69251a38456781335b9dde30341d7a07a48962
 U
