@@ -13,20 +13,8 @@ public class Student extends Person {
 
     @Override
     public String toString() {
-        return super.toString();
+        return super.toString() +
+                "courseName = '" + courseName + '\'' +
+                ", isActive = " + isActive;
     }
-
-    @Override
-    public void printInfo() {
-        System.out.println("Student " + toString());
-        showS();
-    }
-
-    public void showS() {
-        System.out.println("Course name is " + courseName);
-        System.out.println("Status " + isActive);
-    }
-
-
-
 }

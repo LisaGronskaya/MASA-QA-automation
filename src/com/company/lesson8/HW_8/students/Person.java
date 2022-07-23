@@ -14,11 +14,11 @@ public abstract class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
-                "name='" + name + '\'' +
-                ", email='" + email + '\'' +
-                ", birthYear=" + birthYear +
-                '}';
+        return
+                "name = '" + name + '\'' +
+                ", email = '" + email + '\'' +
+                ", birthYear = " + birthYear + "," +
+                ' ';
     }
 
     public String getName() {
@@ -45,8 +45,8 @@ public abstract class Person {
         this.birthYear = birthYear;
     }
 
-    public abstract void printInfo();
-//        System.out.println("Student " + toString());
-
+    public void printInfo() {
+        System.out.println("Student " + toString());
+    }
 
 }
