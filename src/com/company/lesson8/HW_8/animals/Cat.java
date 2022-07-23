@@ -3,7 +3,7 @@ package com.company.lesson8.HW_8.animals;
 public class Cat extends Mammal {
 
     public Cat() {
-        System.out.println("I am a cat");
+        System.out.println("I am a Cat");
     }
 
     public void howDoYouLive() {
@@ -12,6 +12,6 @@ public class Cat extends Mammal {
 
     @Override
     public void howManyLegs() {
-        System.out.println("I have 4 legs");
+        System.out.println("I have 4 paws");
     }
 }

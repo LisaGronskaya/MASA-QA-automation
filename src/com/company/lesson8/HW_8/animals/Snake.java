@@ -1,6 +1,6 @@
 package com.company.lesson8.HW_8.animals;
 
-public abstract class Reptile extends Animal{
+public abstract class Snake extends Reptile {
     @Override
     public void howDoYouLive() {
         super.howDoYouLive();
