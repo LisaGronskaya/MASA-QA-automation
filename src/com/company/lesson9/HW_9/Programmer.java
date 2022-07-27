@@ -6,14 +6,14 @@ public class Programmer extends Worker implements WriteСode {
     }
 
     @Override
-    public void CanWriteCode() {
+    public void сanWriteCode() {
         System.out.println("I can write code and eat all the cookies in the office");
     }
 
     @Override
     public void voice() {
         System.out.println("Hi, i'm " + name);
-        CanWriteCode();
+        сanWriteCode();
         System.out.println("-------------");
     }
 }

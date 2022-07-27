@@ -1,7 +1,7 @@
 package com.company.lesson9.HW_9;
 
 public class Worker {
-    public String name;
+    protected String name;
 
     public String getName() {
         return name;

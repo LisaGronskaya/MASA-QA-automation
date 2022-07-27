@@ -6,14 +6,14 @@ public class Cook extends Worker implements ToCook {
     }
 
     @Override
-    public void CanCook() {
+    public void сanCook() {
         System.out.println("I can make pasta");
     }
 
     @Override
     public void voice() {
         System.out.println("Hi, i'm " + name);
-        CanCook();
+        сanCook();
         System.out.println("-------------");
     }
 }

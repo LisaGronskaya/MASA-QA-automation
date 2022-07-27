@@ -6,14 +6,14 @@ public class Driver extends Worker implements Drive {
     }
 
     @Override
-    public void CanDrive() {
+    public void сanDrive() {
         System.out.println("I can drive cars");
     }
 
     @Override
     public void voice() {
         System.out.println("Hi, i'm " + name);
-        CanDrive();
+        сanDrive();
         System.out.println("-------------");
     }
 }
